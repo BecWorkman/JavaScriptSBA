@@ -8,7 +8,7 @@ GitHub Repo
 https://github.com/BecWorkman/JavaScriptSBA.git
 
 1. Download the zip from the repository
-2. Unzip the folder and click on index.html to login. Another way to view this project is to open the WorkmanSBA in your desired text editor or IDE to run on your local machine.(Login is not required but all fields must be filled in)
+2. Unzip the folder and click on index.html to login to the user dashboard. Another way to view this project is to open the WorkmanSBA in your desired text editor or IDE to run on your local machine.(Login is not required but all fields must be filled in)
 
 # Skills:
 - HTML
